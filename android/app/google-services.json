@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "223711539161",
+    "firebase_url": "https://hotel-utch-default-rtdb.firebaseio.com",
+    "project_id": "hotel-utch",
+    "storage_bucket": "hotel-utch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223711539161:android:c973ea7d03958af37ff3c8",
+        "android_client_info": {
+          "package_name": "mx.edu.utch.iotfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223711539161-ajua1l4m4a1jhkb1f9jebcl354t85287.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2DaiBzp0V-FwiQxqWHQzQwwWf-giDDvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223711539161-ajua1l4m4a1jhkb1f9jebcl354t85287.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
